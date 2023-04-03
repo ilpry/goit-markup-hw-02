@@ -3,7 +3,7 @@
     --prime-text: rgba(46, 47, 66, 1); /* NAVY_BLUE: main text, bg-hero */
     --secondary-text: rgba(67, 68, 85, 1); /* SLATE: adress, section text */
     --background-prime: rgba(255, 255, 255, 1); /* WHITE: bg, hero h1, button */
-    --background-sec: rgba(244, 244, 253, 1); /* CLOUD: section backgraund*/
+    --background-sec: rgba(244, 244, 253, 1); /* CLOUD: section background*/
     --footer-text: rgba(231, 233, 252, 1); /* CORNFLOWER: footeer text */
     --hover-link: rgba(64, 75, 191, 1); /* OCEAN: navigation, contacts */
   }
