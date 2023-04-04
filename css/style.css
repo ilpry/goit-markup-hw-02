@@ -1,5 +1,4 @@
 :root {
-    
 }
 
 body {
@@ -38,11 +37,11 @@ body {
   font-weight: 500;
 }
 .current {
-  color: #4D5AE5;
+  color: #4d5ae5;
 }
 .contacts .link {
   font-style: normal;
-  color: ;
+  color: #434455;
 }
 .nav .link:hover,
 .nav .link:focus,
@@ -80,19 +79,19 @@ body {
   height: 56px;
   border: 1px solid transparent;
   line-height: 1.5;
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   color: #ffffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 .button:hover,
 .button:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
   color: ;
   border-color: transparent;
 }
 .button.primery:hover,
 .button.primery:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
   cursor: pointer;
 }
 
@@ -121,18 +120,27 @@ body {
 
 /* OUR TEAM   */
 .team-section {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
+}
+.img-box {
+    background-color: #ffffff;
+}
+.team-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /* PORTFOLIO */
 
 /* FOOTER */
 .footer {
-  background-color: #2E2F42;
+  background-color: #2e2f42;
 }
 
 .footer .logo {
@@ -140,5 +148,5 @@ body {
 }
 
 .footer .text {
-  color: #F4F4FD;
+  color: #f4f4fd;
 }
