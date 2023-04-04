@@ -66,11 +66,12 @@ body {
   font-family: inherit;
   border: 1px solid #e7e9fc;
   border-radius: 4px;
+  line-height: 1.5;
   letter-spacing: 0.04em; /* FIXME: 0.04em non fittable size in Style Guide with border-box */
   font-size: 16px;
   font-weight: 500;
-  background: ;
-  color: ;
+  background: #F4F4FD;
+  color: #4d5ae5;
 
   cursor: pointer;
 }
@@ -86,7 +87,7 @@ body {
 .button:hover,
 .button:focus {
   background-color: #404bbf;
-  color: ;
+  color: #FFFFFF;
   border-color: transparent;
 }
 .button.primery:hover,
