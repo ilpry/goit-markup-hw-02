@@ -39,6 +39,11 @@ body {
 .current {
   color: #4d5ae5;
 }
+.contacts {
+  font-style: normal;
+  color: #434455;
+}
+
 .contacts .link {
   font-style: normal;
   color: #434455;
