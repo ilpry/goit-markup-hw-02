@@ -105,17 +105,20 @@ body {
 .title {
   font-size: 20px;
   font-weight: 500;
-  line-height: calc(24 / 20);
-  color: ;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 /* WHAT WE DO */
 .section > .title {
   font-size: 36px;
   font-weight: 700;
-  line-height: calc(40 / 36);
+  line-height: 1.11;
+  text-align: center;
   letter-spacing: 0.02em;
-  color: ;
+  text-transform: capitalize
+  color: #2e2f42;
 }
 
 /* OUR TEAM   */
