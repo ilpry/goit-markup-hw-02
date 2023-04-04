@@ -76,25 +76,21 @@ body {
 .button.primery {
   min-width: 169px;
   height: 56px;
-  padding-top: 16px;
-  padding-right: 32px;
-  padding-bottom: 16px;
-  padding-left: 32px;
-
   border: 1px solid transparent;
+  line-height: 1.5;
   background-color: #4D5AE5;
-  color: ;
+  color: #ffffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 .button:hover,
 .button:focus {
-  background-color: #4D5AE5;
+  background-color: #404BBF;
   color: ;
   border-color: transparent;
 }
 .button.primery:hover,
 .button.primery:focus {
-  background-color: #4D5AE5;
+  background-color: #404BBF;
   cursor: pointer;
 }
 
