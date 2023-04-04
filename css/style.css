@@ -126,6 +126,14 @@ body {
   text-align: center;
   text-transform: capitalize;
 }
+.team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
 .img-box {
     background-color: #ffffff;
 }
