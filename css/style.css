@@ -70,7 +70,7 @@ body {
   letter-spacing: 0.04em; /* FIXME: 0.04em non fittable size in Style Guide with border-box */
   font-size: 16px;
   font-weight: 500;
-  background: #F4F4FD;
+  background: #f4f4fd;
   color: #4d5ae5;
 
   cursor: pointer;
@@ -87,7 +87,7 @@ body {
 .button:hover,
 .button:focus {
   background-color: #404bbf;
-  color: #FFFFFF;
+  color: #ffffff;
   border-color: transparent;
 }
 .button.primery:hover,
@@ -128,21 +128,21 @@ body {
   text-transform: capitalize;
 }
 .team-title {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .img-box {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 .team-text {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* PORTFOLIO */
