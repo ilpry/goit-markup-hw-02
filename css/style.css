@@ -43,7 +43,7 @@ body {
   letter-spacing: 0.03em;
   text-decoration: none;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: var(--iris);
 }
 
 /* HEADER */
